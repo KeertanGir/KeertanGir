@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeertanGir
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me on (Whatsapp : 03302137338)
 - 😄 Pronouns: Java Developer
 - ⚡ Fun fact: Still learning about Java
