@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> </p>
 <br>
 🛠️ Tech Stack<hr>
-💻 Languages
+<p align="center">💻 Languages</p>
 
 Java
 
@@ -30,7 +30,7 @@ SQL
 
 C (Basics)
 <hr>
-🚀 Backend & Frameworks
+<p align="center">🚀 Backend & Frameworks</p>
 
 Spring Boot
 
@@ -38,11 +38,11 @@ Hibernate / JPA
 
 REST APIs
 <hr>
-🗄️ Database
+<p align="center">🗄️ Database</p>
 
 MySQL
 <hr>
-🧠 CS Fundamentals
+<p align="center">🧠 CS Fundamentals</p>
 
 Data Structures & Algorithms
 
