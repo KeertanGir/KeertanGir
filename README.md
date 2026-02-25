@@ -1,6 +1,4 @@
-# KeertanGir-First github repo
-<br>
-👋 Hi, I'm Keertan Gir Goswami
+#  Hi, I'm Keertan Gir Goswami
 <br>
 🚀 Passionate Java Backend Developer 
 🎓 Bachelor's Student (6th Semester)<br>
