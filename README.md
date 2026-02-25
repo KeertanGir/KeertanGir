@@ -24,7 +24,9 @@
 🛠️ Tech Stack<hr>
 <p align="center">💻 Languages</p>
 
-Java                         SQL
+Java 
+
+SQL
 
 C (Basics)
 <hr>
