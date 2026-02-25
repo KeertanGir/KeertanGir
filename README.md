@@ -12,7 +12,7 @@
 🎯 Goal: Become Job-Ready Software Engineer before Graduation<br>
 ⚡ Fun Fact: I love breaking problems into logical steps<br>
 <br>
-<h2>🛠️ Tech Stack<h2><br>
+<h2>🛠️ Tech Stack<h2>
 <h3>💻 Languages<h3><br>
 <p align="left"> <img src="https://skillicons.dev/icons?i=java" height="50"/> <img src="https://skillicons.dev/icons?i=c" height="50"/> <img src="https://skillicons.dev/icons?i=sql" height="50"/> </p>
 <br>
