@@ -12,15 +12,18 @@
 🎯 Goal: Become Job-Ready Software Engineer before Graduation<br>
 ⚡ Fun Fact: I love breaking problems into logical steps<br>
 <br>
-<h3>💻 Languages<h3><br>
+  <p align="center">
+<h3>💻 Languages<h3></h3> <br>
 <p align="left"> <img src="https://skillicons.dev/icons?i=java" height="50"/> <img src="https://skillicons.dev/icons?i=c" height="50"/> <img src="https://skillicons.dev/icons?i=sql" height="50"/> </p>
 <br>
 <h3>🚀 Backend & Frameworks<h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=spring" height="50"/> <img src="https://skillicons.dev/icons?i=hibernate" height="50"/> <img src="https://skillicons.dev/icons?i=postman" height="50"/> </p>
 <br>
-<h3>🗄️ Database<h3>
+<h3>🗄️ Database</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> </p>
 <br>
+ </p>
+<h4>
 🛠️ Tech Stack<hr>
 <p align="center">💻 Languages</p>
 
@@ -51,3 +54,4 @@ OOP
 DBMS
 
 Operating Systems
+</h4>
