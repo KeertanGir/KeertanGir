@@ -21,7 +21,7 @@
 <h3>🗄️ Database<h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> </p>
 <br>
-🛠️ Tech Stack
+🛠️ Tech Stack<br>
 💻 Languages
 
 Java
