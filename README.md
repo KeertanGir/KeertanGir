@@ -21,4 +21,33 @@
 <h3>🗄️ Database<h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> </p>
 <br>
+🛠️ Tech Stack
+💻 Languages
 
+Java
+
+SQL
+
+C++ (Basics)
+
+🚀 Backend & Frameworks
+
+Spring Boot
+
+Hibernate / JPA
+
+REST APIs
+
+🗄️ Database
+
+MySQL
+
+🧠 CS Fundamentals
+
+Data Structures & Algorithms
+
+OOP
+
+DBMS
+
+Operating Systems
