@@ -12,7 +12,7 @@
 <br>
 
 <h3>💻 Languages<h3></h3> <br>
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="50"/> <img src="https://skillicons.dev/icons?i=c" height="50"/> <img src="https://skillicons.dev/icons?i=sql" height="50"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="50"/> </p>
 <br>
 
 <h3>🚀 Backend & Frameworks<h3>
