@@ -1,7 +1,7 @@
 #  Hi, I'm Keertan Gir Goswami
 <br>
-🚀 Passionate Java Backend Developer 
-🎓 Bachelor's Student (6th Semester)<br>
+🚀 Java Backend Developer 
+🎓 Bachelor's Student (7th Semester)<br>
 💡 Focused on Problem Solving & Scalable Backend Systems
 <br>
 <h3>🚀 About Me<h3><br>
